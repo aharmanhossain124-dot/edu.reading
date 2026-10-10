@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker - স্মার্ট স্টাডি প্ল্যাটফর্ম",
+  "description": "Smart study platform with stopwatch & pomodoro timer, daily study routine tracker, subject analytics, and focus tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
